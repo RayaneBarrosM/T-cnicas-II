@@ -1,7 +1,12 @@
 // simulando um e-commerce - carrinho de compras e pizzaria:
 class Pizza{
+    static instancia = null;
+
     constructor(){
         if(!Pizza.instancia){
+            return Pizza.instancia;
+        }
+
             this.nome = ""
             this.preco = {};
             this.ingredientes = {};
@@ -9,8 +14,6 @@ class Pizza{
             this.borda = ""
             this.molho = ""
             Pizza.instancia = this;
-        }
-        return Pizza.instancia;
     }
 
     definirNome(nome){
@@ -83,8 +86,7 @@ class Pizza{
     }
 
     calcularValor(){
-        const total = Object.values(this.preco).reduce((acc, preco) => acc + preco,0);
-        return total/ Object.keys(this.preco).length;
+        return Object.values(this.preco).reduce((acc, preco) => acc + preco, 0);
     }
 }
 
