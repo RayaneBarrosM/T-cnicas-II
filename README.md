@@ -1,2 +1,6 @@
 <h1>Atividades de TécnicasII</h1>
-<p>Na matéria de tecnicasII é ensinado sobre padroes GOF</p>
+<h2>Padrões GOF</h2>
+<ul>
+  <li>Criacionais</li>
+  <li>Estruturais</li>
+</ul>
