@@ -20,5 +20,5 @@
 
 🔗 Aula por Vinícius Heltai Pacheco
 
-<p>📍 Fatec Diadema Luigi Papaiz </p>
+📍 Fatec Diadema Luigi Papaiz
 
