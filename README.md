@@ -1,5 +1,8 @@
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> f8a258752bfa2b5ec7df92aa1d8e4c5e9fa0fcf7
 <h1>Atividades de TécnicasII</h1>
 <h2>Padrões GOF</h2>
 <ul>
@@ -7,6 +10,7 @@
   <li>Estruturais</li>
   <li>Comportamentais</li>
 </ul>
+<<<<<<< HEAD
 
 # Aula de Técnicas de Programação (março/2025)
 
@@ -30,6 +34,10 @@
     
 ## Autores
 Singleton/main
+=======
+   
+## Autores
+>>>>>>> f8a258752bfa2b5ec7df92aa1d8e4c5e9fa0fcf7
 
 - [@Natali](https://github.com/nouveauromance)
 - [@Rayane](https://github.com/RayaneBarrosM)
@@ -38,6 +46,7 @@ Singleton/main
 
 HEAD
 📍 Fatec Diadema Luigi Papaiz 
+<<<<<<< HEAD
 HEAD
  prototype/main
 
@@ -45,4 +54,6 @@ Singleton/main
 =======
 📍 Fatec Diadema Luigi Papaiz
 
+=======
+>>>>>>> f8a258752bfa2b5ec7df92aa1d8e4c5e9fa0fcf7
 
