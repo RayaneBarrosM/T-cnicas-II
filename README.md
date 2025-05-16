@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <h1>Atividades de TécnicasII</h1>
 <h2>Padrões GOF</h2>
 <ul>
@@ -22,4 +21,4 @@
 🔗 Aula por Vinícius Heltai Pacheco
 
 📍 Fatec Diadema Luigi Papaiz 
->>>>>>> prototype/main
+
