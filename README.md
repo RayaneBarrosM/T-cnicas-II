@@ -1,5 +1,6 @@
 
 <h1>Atividades de TécnicasII</h1>
+🔎 Este repositório contém os códigos/atividades desenvolvidas nas aulas de Técnicas de Programação sobre os Padrões GOF
 <h2>Padrões GOF</h2>
 <ul>
   <li>Criacionais</li>
@@ -7,21 +8,6 @@
   <li>Comportamentais</li>
 </ul>
 
-
-# Aula de Técnicas de Programação (março/2025)
-
-🔎 Este repositório contém os códigos/atividades desenvolvidas nas aulas de Técnicas de Programação sobre Singleton.
-
-## Instalação
- Singleton/main
-
-📌 Instale o projeto com npm:
-
-```bash
-  npm install TécnicasII
-  cd TécnicasII
-```
-   
 ## Autores
 
 - [@Natali](https://github.com/nouveauromance)
